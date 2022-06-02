@@ -1,4 +1,4 @@
-const App = props => (
+const App = () => (
   <div>
     <FirstComponent />
     <NamedComponent name="Christien" />
